@@ -27,4 +27,4 @@ This project showcases data analysis tasks performed during my Data Analyst Inte
 This project demonstrates how data can be transformed into actionable insights for better decision-making.
 
 ## Author
-Fatima Mahminath
+Mirza Sharif Baig
